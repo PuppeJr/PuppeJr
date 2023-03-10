@@ -38,7 +38,7 @@
  
  <br>
  
-  ### Seja Bem Vindo ás minhas redes sociais :-)!
+  ### Seja Bem Vindo as minhas redes sociais :-)!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCMstTCvGNNmruYuci_ee3iQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
