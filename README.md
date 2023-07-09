@@ -43,6 +43,7 @@
   <a href="https://www.instagram.com/puppe_junior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-fernando-puppe-junior-41692616a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <!-- ![Snake animation](https://github.com/PuppeJr/PuppeJr/blob/output/github-contribution-grid-snake.svg) -->
+ 
+  ![Snake animation](https://github.com/PuppeJr/PuppeJr/blob/output/github-contribution-grid-snake.svg) 
 
 </div>
